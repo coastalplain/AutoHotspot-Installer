@@ -1,4 +1,5 @@
 RaspberryConnect.com
+
 This fork modifies eth0 to wwan0 on a PiZero W using a SixFab cellular hat.
 
 This installer script, the autohotspot and autohotspotN scripts can be shared and modified but all references to RaspberryConnect.com must be kept in place.
