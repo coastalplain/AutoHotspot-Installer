@@ -12,7 +12,7 @@
 #http://www.raspberryconnect.com
 
 wifidev="wlan0" #device name to use. Default is wlan0.
-ethdev="eth0" #Ethernet port to use with IP tables
+ethdev="wwan0" #Ethernet port to use with IP tables
 #use the command: iw dev ,to see wifi interface name 
 
 IFSdef=$IFS
